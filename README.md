@@ -41,4 +41,8 @@ To run TwitchSenti locally:
 
 TwitchSenti is licensed under the GNU General Public License v3.0 (GPLv3). For more details, see the LICENSE file in this repository.
 
-   
+## Acknowledgements
+
+This project could not have been made possible without the use of several key libraries:
+
+1. **Natural Langugage Toolkit (NLTK)**: Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
