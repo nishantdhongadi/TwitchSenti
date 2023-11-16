@@ -4,9 +4,9 @@ TwitchSenti is a Next.js-based Twitch extension that enables streamers and moder
 ## Features
 
 - Real-time sentiment analysis of Twitch chat.
+- User Authentication through OAuth 2.0.
 - Interactive and user-friendly dashboard.
-- Customizable alert settings based on sentiment thresholds.
-- Historical sentiment data visualization.
+- Historical and live sentiment data visualization through Pandas.
 
 ## Installation
 
@@ -46,3 +46,4 @@ TwitchSenti is licensed under the GNU General Public License v3.0 (GPLv3). For m
 This project could not have been made possible without the use of several key libraries:
 
 1. **Natural Langugage Toolkit (NLTK)**: Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
+2. **Pandas**: Pandas, (2023). Pandas: Powerful data analysis tools for Python. Retrieved from https://pandas.pydata.org/
