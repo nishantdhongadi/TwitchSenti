@@ -8,14 +8,6 @@ TwitchSenti is a Next.js-based Twitch extension that enables streamers and moder
 - Customizable alert settings based on sentiment thresholds.
 - Historical sentiment data visualization.
 
-## Dependencies
-
-TwitchSenti is built using Next.js and relies on several key dependencies:
-
-- Next.js: The React framework for production.
-- Tailwind CSS: For styling components.
-- [Other Dependencies]: List other major dependencies here.
-
 ## Installation
 
 To set up TwitchSenti on your local machine, follow these steps:
